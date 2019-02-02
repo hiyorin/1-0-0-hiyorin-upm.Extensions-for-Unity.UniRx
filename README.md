@@ -3,7 +3,7 @@ package manager
 
 # Requirement
 * [UniRx](https://github.com/neuecc/UniRx)(6.1.1 or higher)
-* [upm.Extensions-for-Unity](https://github.com/hiyorin/upm.Extensions-for-Unity.DOTween)
+* [upm.Extensions-for-Unity](https://github.com/hiyorin/upm.Extensions-for-Unity)
 
 
 # Install
